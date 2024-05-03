@@ -5,9 +5,9 @@ export const revalidate = 1800;
 //import Card from "@/components/Card";
 //import Card2 from "@/components/Card2";
 //import Reportimage from "@/components/Reportimage";
-import Reportfull from "@/components/Reportfull";
-import Retry from "@/components/Retry";
-import Link from "next/link";
+//import Reportfull from "@/components/Reportfull";
+//import Retry from "@/components/Retry";
+//import Link from "next/link";
 
 //export default async function Report({ searchParams }) {
 //local test env
